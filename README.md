@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](screenshots/solution.png)
+![screenshot](./screenshots/solution.png)
 
 Created a '404 not found page' by following the design from devchallenges.io using HTML and CSS
 

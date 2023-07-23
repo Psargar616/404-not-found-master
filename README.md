@@ -8,11 +8,12 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{psargar616.github.io/404-not-found-master/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{github.com/Psargar616/404-not-found-master/settings/pages}">
+  
       Solution
     </a>
     <span> | </span>
